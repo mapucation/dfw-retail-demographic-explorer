@@ -1,0 +1,42 @@
+# ==========================================
+# DFW Retail & Demographic Explorer
+# ==========================================
+
+# --- Raw and working data ---
+data/raw/*
+data/interim/*
+
+# Keep documentation/placeholders in data folders
+!data/raw/README.md
+!data/interim/README.md
+
+# --- ArcGIS file geodatabases ---
+*.gdb/
+*.geodatabase/
+
+# --- ArcGIS temporary / generated files ---
+*.lock
+*.sr.lock
+*.tmp
+*.bak
+.backups/
+Index/
+ImportLog/
+GpMessages/
+
+# --- ArcGIS caches ---
+*.cache
+*.tile
+*.tiles
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# --- Windows ---
+Thumbs.db
+Desktop.ini
+
+# --- VS Code ---
+.vscode/
