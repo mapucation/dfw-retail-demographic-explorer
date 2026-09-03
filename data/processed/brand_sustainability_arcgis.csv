@@ -1,0 +1,41 @@
+Brand,Parent,Sust_Score,Sust_Label,Reports_ESG,SBTi,Renew_Pct,Waste_Pct,Target,Programs,Report_URL,Confidence
+Walmart,Walmart Inc.,5,Leader,Yes,Near-term validated (2026),53.3,84.0,Scope 1+2 -28% by FY2031 vs FY2025; zero-emissions aspiration 2040,Project Gigaton supplier program; 10 GW clean energy pledge,https://corporate.walmart.com/purpose/esgreport,High
+Sam's Club,Walmart Inc.,5,Leader,Yes,See Walmart,53.3,84.0,See Walmart,Walmart Inc. programs,https://corporate.walmart.com/purpose/esgreport,Medium
+Target,Target Corporation,5,Leader,Yes,Near-term validated (2019); updated targets pending,76.0,87.0,Scope 1+2 -55% by 2030 vs 2017 (-41% by 2024); net zero 2040,Target Forward; Forward Renew supplier program; Target Zero,https://corporate.target.com/sustainability-governance/climate,High
+Costco,Costco Wholesale Corp.,4,Strong,Yes,None (states it has not adopted SBTs),28.0,82.8,Scope 1+2 -39% by 2030 vs 2020 (-2% so far); no net-zero year,Climate Action Plan; supplier emissions engagement,https://www.costco.com/sustainability-climate-action-plan.html,High
+BJ's Wholesale Club,BJ's Wholesale Club Holdings,2,Limited,Partial,None (2022 pledge unfulfilled),-1.0,-1.0,None; Scope 1+2 baseline only,Feeding Communities donations; rooftop solar,https://www.bjs.com/biz/BJsESGContentEspot/BJs_ESGReport_2022.pdf,Low
+Kroger,The Kroger Co.,4,Strong,Yes,"Committed (2022), not validated",-1.0,85.0,Scope 1+2 -30% by 2030 vs 2018 (-15% by 2024); no net-zero year,Zero Hunger | Zero Waste; natural refrigerants,https://www.thekrogerco.com/impact/reporting-hub/,Medium-High
+Albertsons,Albertsons Companies,5,Leader,Yes,Near-term validated (~2022),48.0,-1.0,Scope 1+2 -47% by 2030 vs 2019 (-24% by FY2024); net zero ops 2040,Recipe for Change; Nourishing Neighbors,https://s29.q4cdn.com/239956855/files/doc_downloads/2025/12/RecipeForChangeReport2025.pdf,High
+Tom Thumb,Albertsons Companies,5,Leader,Yes,See Albertsons,48.0,-1.0,See Albertsons,Albertsons programs,https://s29.q4cdn.com/239956855/files/doc_downloads/2025/12/RecipeForChangeReport2025.pdf,High
+Market Street,United Supermarkets / Albertsons,5,Leader,Yes,See Albertsons,48.0,-1.0,See Albertsons,Albertsons programs,https://s29.q4cdn.com/239956855/files/doc_downloads/2025/12/RecipeForChangeReport2025.pdf,High
+ALDI,ALDI Inc. (ALDI SUD Group),5,Leader,Yes,Net-zero validated (2024),100.0,82.4,"Scope 1+2 -52% by 2030, -90% by 2035 vs 2021; net zero 2050",Natural refrigerants (33% of stores); no plastic bags; on-site solar,https://corporate.aldi.us/corporate-sustainability/progress-report,High
+H-E-B,"H-E-B, LP (private)",2,Limited,Partial,,-1.0,60.0,None disclosed,"Our Texas, Our Future; EPA GreenChill/SmartWay",https://ourtexasourfuture.com/,Medium
+Central Market,"H-E-B, LP",2,Limited,Partial,,-1.0,60.0,None disclosed,H-E-B programs,https://ourtexasourfuture.com/,Medium
+Whole Foods Market,"Amazon.com, Inc.",4,Strong,Partial,None (Amazon commitment removed 2023),-1.0,70.0,No WFM target; Amazon net zero 2040 (Climate Pledge),Natural refrigerants in new stores; food rescue; US Food Waste Pact,https://impact.wholefoods.com/,Medium
+Sprouts Farmers Market,"Sprouts Farmers Market, Inc.",3,Moderate,Yes,,-1.0,73.0,None; discloses Scope 1+2 (-2.8% y/y 2025),Food Rescue (30M meals); low-GWP refrigeration,https://investors.sprouts.com/impact-reports/default.aspx,High
+Trader Joe's,"Trader Joe's Co. (private, Aldi Nord family)",1,None / Undisclosed,No,,-1.0,-1.0,None disclosed,Neighborhood Shares food donation,,Low
+WinCo Foods,"WinCo Foods, LLC (ESOP)",1,None / Undisclosed,No,,-1.0,-1.0,None disclosed,Food bank donations only,,Low
+Fiesta Mart,Chedraui USA / Grupo Chedraui,2,Limited,Partial,,-1.0,-1.0,None; parent discloses Scope 1+2,Parent IFRS S2 climate report; sustainable seafood,https://inversionistas.grupochedraui.com.mx/,Medium
+El Rancho Supermercado,Heritage Grocers Group (Apollo),2,Limited,Partial,,-1.0,-1.0,None; group cut Scope 1+2 13% y/y (2024),Renewable PPA; LED/HVAC; refrigerant leak tagging,,Medium
+El Rio Grande Latin Market,Private (Dallas),1,None / Undisclosed,No,,-1.0,-1.0,,None found,,High
+La Michoacana,"La Michoacana Meat Market (private, Houston)",1,None / Undisclosed,No,,-1.0,-1.0,,None found,,High
+Natural Grocers,Natural Grocers by Vitamin Cottage (NYSE: NGVC),2,Limited,Partial,,-1.0,-1.0,None disclosed,First US grocer to ban plastic checkout bags (2009); PG Most Sustainable Grocers 2025/26,https://www.naturalgrocers.com/sustainability-report,High
+Brookshire's,"Brookshire Grocery Co. (private, Tyler TX)",1,None / Undisclosed,No,,-1.0,-1.0,,EPA SmartWay; bag/bottle recycling; food bank giving,,Medium
+H Mart,H Mart Inc. (private),1,None / Undisclosed,No,,-1.0,-1.0,,None found,,High
+99 Ranch Market,"Tawa Supermarket, Inc. (private)",1,None / Undisclosed,No,,-1.0,-1.0,,EPA Food Recovery Challenge award (2018),,Medium
+Patel Brothers,Patel Brothers (private),1,None / Undisclosed,No,,-1.0,-1.0,,None found,,High
+Foodland,"G.E. Foodland, Inc. (private, DFW)",1,None / Undisclosed,No,,-1.0,-1.0,,Local food bank support,,High
+India Bazaar,"Private (Pabari family, Plano)",1,None / Undisclosed,No,,-1.0,-1.0,,None found,,High
+7-Eleven,"Seven & i Holdings / 7-Eleven, Inc.",4,Strong,Yes,None found,23.0,-1.0,Store Scope 1+2 -50% by 2030 vs FY2013 (-33% by FY2024); net zero 2050,7Charge EV network; HVAC efficiency program,https://corp.7-eleven.com/corp-press-releases/7-eleven-inc-releases-2025-impact-report,Medium
+Dollar General,Dollar General Corp. (NYSE: DG),3,Moderate,Yes,,-1.0,66.0,"Intensity only: -15% by 2026 (met), -30% by 2031 vs 2020 per sq ft",ISO 50001 energy mgmt in 99% of stores,https://www.dollargeneral.com/content/dam/dg/assets/landing-pages/public-relations/corporate-social-responsibility/documents/Serving-Others-Report-FY25.pdf,High
+Dollar Tree,"Dollar Tree, Inc. (NASDAQ: DLTR)",3,Moderate,Yes,"None (1.5C-aligned, unvalidated)",-1.0,70.0,Scope 1+2 -50% by FY2032 vs FY2023; net zero 2050,Energy Efficiency Standard for new stores,https://corporate.dollartree.com/values/environmental-stewardship,High
+Family Dollar,Brigade Capital / Macellum (private since Jul 2025),1,None / Undisclosed,No,,-1.0,-1.0,None since divestiture from Dollar Tree,None post-divestiture,,Low
+CVS,CVS Health Corp. (NYSE: CVS),5,Leader,Yes,Net-zero validated (2021),33.0,63.0,Scope 1+2 -47% by 2030 vs 2019 (-43% by 2025); net zero 2050,Seven renewable PPAs; fleet electrification,https://www.cvshealth.com/impact/healthy-planet/climate-resiliency-and-energy.html,High
+Walgreens,"Walgreens Boots Alliance (private, Sycamore 2025)",3,Moderate,Yes,,1.0,-1.0,Scope 1+2 -30% by FY2030 vs FY2019 (achieved -38% by FY2025); no net zero,$500M+ efficiency upgrades; Green Box product recovery,https://corporate.walgreens.com/wp-content/uploads/2026/03/Walgreens-Impact-Report_FY25.pdf,High
+QuikTrip,QuikTrip Corp. (private),1,None / Undisclosed,No,,-1.0,-1.0,,None found,,High
+RaceTrac,"RaceTrac, Inc. (private)",1,None / Undisclosed,No,,-1.0,-1.0,,"EV chargers (DFW, 2023)",,High
+Raceway,"RaceTrac, Inc. (private)",1,None / Undisclosed,No,,-1.0,-1.0,,See RaceTrac,,High
+Circle K,Alimentation Couche-Tard (TSX: ATD),4,Strong,Yes,None found,-1.0,-1.0,Scope 1+2 -24% vs 2020 achieved FY2026; 30% of sites carbon-neutral by 2030; no net zero,"4,700+ EV charge points; $1B renewable investment goal",https://corporate.couche-tard.com/planet/,Medium
+Murphy USA,Murphy USA Inc. (NYSE: MUSA),1,None / Undisclosed,Partial,,-1.0,-1.0,None; discloses Scope 1+2 only,Annual ESG Summary only,https://ir.corporate.murphyusa.com/investor-relations/esg-summary/default.aspx,Medium
+Murphy Express,Murphy USA Inc.,1,None / Undisclosed,Partial,,-1.0,-1.0,See Murphy USA,See Murphy USA,https://ir.corporate.murphyusa.com/investor-relations/esg-summary/default.aspx,Medium
+Braum's,"W.H. Braum, Inc. (private)",1,None / Undisclosed,No,,-1.0,-1.0,,None found,,High
